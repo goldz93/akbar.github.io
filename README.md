@@ -1,1 +1,1 @@
-Coba githug pages
+Coba github pages
